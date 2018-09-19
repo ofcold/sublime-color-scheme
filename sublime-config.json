@@ -1,0 +1,35 @@
+{
+	"auto_find_in_selection": true,
+	"color_scheme": "Packages/futing/ofcold.tmTheme",
+	"font_face": "OperatorMono-Book",
+	"font_options":
+	[
+		"no_round"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 9,
+	"line_padding_top": 9,
+	"match_brackets_angle": true,
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		100,
+		120,
+		140,
+		160
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": true
+}
