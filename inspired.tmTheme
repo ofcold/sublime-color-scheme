@@ -45,11 +45,11 @@
                     <key>lineHighlight</key>
                     <string>#f5f5f5</string>
                     <key>findHighlight</key>
-                    <string>#f8eec7</string>
+                    <string>#60D6A9</string>
                     <key>findHighlightForeground</key>
                     <string>#252d37</string>
                     <key>selection</key>
-                    <string>#f8eec7</string>
+                    <string>#60D6A9</string>
                     <key>selectionBorder</key>
                     <string>#ffffff</string>
 
@@ -170,11 +170,23 @@
                 <key>name</key>
                 <string>User-defined Constant</string>
                 <key>scope</key>
-                <string>constant.character, constant.other, variable.other.constant</string>
+                <string>constant.character, constant.other</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
                     <string>#12D870</string>
+                </dict>
+            </dict>
+
+            <dict>
+                <key>name</key>
+                <string>User-defined Variable</string>
+                <key>scope</key>
+                <string>variable.other.constant</string>
+                <key>settings</key>
+                <dict>
+                    <key>foreground</key>
+                    <string>#de751f</string>
                 </dict>
             </dict>
 
@@ -189,7 +201,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#252d37</string>
+                    <string>#FF0000</string>
                 </dict>
             </dict>
 
@@ -204,7 +216,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#0064db</string>
+                    <string>#1D7373</string>
                     <key>fontStyle</key>
                     <string>bold</string>
                 </dict>
@@ -381,7 +393,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#62a35c</string>
+                    <string>#00A779</string>
                 </dict>
             </dict>
 
@@ -707,7 +719,7 @@
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
-                    <string>#252d37</string>
+                    <string>#00A779</string>
                 </dict>
             </dict>
             <!-- Color -->
